@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: "\U0001F680 Feature Request"
+about: Tell us how we can make Madaster awesome!
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
